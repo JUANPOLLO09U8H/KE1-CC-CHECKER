@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "chrome",
+            "name": "http://cc-processor",
+            "request": "launch",
+            "url": "http://cc-processor"
+        }
+    ]
+}
